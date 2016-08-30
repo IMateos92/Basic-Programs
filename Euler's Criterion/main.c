@@ -22,6 +22,7 @@ int main(int argc, char** argv) {
     int A, M, T;
     scanf("%d", &T);
     scanf("%d %d", &A, &M);
+    printf("pierna");
     if(A>0)
         printf("%d %d %d", A,M,T);
     else
